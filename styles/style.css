@@ -28,3 +28,11 @@ body {
   fill: none;
   stroke: steelblue;
 }
+
+#apple-stock-chart {
+  border: 5px solid black;
+}
+
+.chart-container {
+  color:red;
+}
